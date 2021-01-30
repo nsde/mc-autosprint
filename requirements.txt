@@ -1,0 +1,2 @@
+PyDirectInput
+pynput
